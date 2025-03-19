@@ -43,6 +43,7 @@ public class Player_movement : MonoBehaviour
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/5a626c91-c4f3-48c6-a7bb-189ed3c38fcd)
 
 
 
